@@ -1,5 +1,7 @@
 # 4bit-Computer-in-Verilog-HDL
+
 The project is about implementing a 4bit computer in Verilog HDL with the given instruction set.
+
 ## Contents
 - [Instruction Set](#instruction-set)
 - [Softwares Used](#softwares-used)
