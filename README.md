@@ -1,5 +1,10 @@
 # 4bit-Computer-in-Verilog-HDL
 The project is about implementing a 4bit computer in Verilog HDL with the given instruction set.
+## Contents
+- [Instruction Set](#instruction-set)
+- [Softwares Used](#softwares-used)
+- [YouTube Link](#youtube-link)
+
 ## Instruction Set
 
 - ADD A,B
@@ -22,5 +27,5 @@ The project is about implementing a 4bit computer in Verilog HDL with the given 
 - Quartus
 - EDL Playground
 
-## YouTube Links
+## YouTube Link
 - <a href="https://youtu.be/NScyurOhusk">Demonstration Video</a>
